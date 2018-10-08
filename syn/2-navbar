@@ -1,0 +1,15 @@
+<!-- Navigation Bar -->
+        <div class="navbar-background">
+            <div class="navbar">
+                <div class="name">
+                    Grupo de estadística para el estudio del lenguaje
+                </div>
+                <div class="links">
+                    <a href="gesel.github.io/index.html">Home</a>
+                    <a href="gesel.github.io/paginas/apuntes.html">Apuntes</a>
+                    <a href="gesel.github.io/paginas/recursos.html">Recursos</a>
+                    <a href="gesel.github.io/blog/blog.html">Blog</a>
+                    <a href="gesel.github.io/paginas/nosotros.html">Nosotros</a>
+                </div>
+            </div>
+        </div> 

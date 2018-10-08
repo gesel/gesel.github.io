@@ -1,0 +1,14 @@
+Tipos de página:
+
+* Home
+* Apuntes
+* Recursos
+* Blog
+* Nosotros
+
+* Próximo evento
+
+* Apunte
+* Recurso
+* Entrada
+
