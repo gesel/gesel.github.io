@@ -29,6 +29,11 @@ a {
     background-color: #eee;
 }
 
+.warning-background {
+    background-color: yellow;
+    color: black;
+}
+
 .footer-background {
     background-color: #444;  
 }
