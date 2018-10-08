@@ -40,8 +40,7 @@ a {
 
 .footer {
     color: #eee;
-    font-size: 15px;
-    font-weight: bold;
+    font-size: 14px;
 }
 
 .footer a {
@@ -50,5 +49,6 @@ a {
 }
 
 .footer a:hover {
-    color: #51AEB3;
+    /*color: #51AEB3;*/
+    text-decoration: underline;
 }
