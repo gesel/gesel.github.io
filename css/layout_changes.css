@@ -1,0 +1,18 @@
+html,
+body {
+    height: 100%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+  flex-direction: column;
+  width: 600px;
+}

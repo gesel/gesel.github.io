@@ -1,0 +1,21 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+  color: black;
+  background-color: white;
+} 
+
+p {
+    line-height: 150%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #51AEB3;
+}
+
+.box {
+    font-size: 1.2em;
+}
