@@ -1,0 +1,62 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+  color: black;
+  background-color: white;
+} 
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #51AEB3;
+}
+
+.navbar-background {
+    background-color: white;
+}
+.navbar {
+    font-weight: normal;
+    color: black;
+    font-size: 18px;
+}
+
+.links a {
+    color: black;
+
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: black;
+    background-color: #eee;
+}
+
+h1 {
+    font-size: 24px;
+    color: #51AEB3;
+}
+
+p {
+      font-family: 'Slabo 27px', serif;
+      font-size: 18px;
+      line-height: 150%
+}
+
+.footer-background {
+    background-color: black;  
+}
+
+.footer {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover {
+    color: #51AEB3;
+}
