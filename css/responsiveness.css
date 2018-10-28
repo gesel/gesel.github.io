@@ -55,10 +55,10 @@
 
 @media screen and (max-width: 310px) {
     .footer-background {
-        height: 150px;
+        height: 140px;
     }
     
     .main {
-        padding-bottom: 120px;
+        padding-bottom: 160px;
     }
 }
