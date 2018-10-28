@@ -1,9 +1,18 @@
-* {
+html {
+    height: 100%;
     box-sizing: border-box;
+}
+  
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 
 body {
   margin: 0;
+  min-height:100%;
+  position:relative;
 }
 
 .navbar-background {
@@ -32,7 +41,6 @@ body {
 .links {
     display: flex;
 }
-
 
 .links a {
     text-align: center;
@@ -72,20 +80,22 @@ body {
     flex-direction: column;
     width: 800px;
     padding: 20px;
+    padding-bottom: 80px;
 }
 
 .footer-background {
+    display: flex;
     position: absolute;
     bottom: 0;
-    display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
     padding: 10px;
+    height: 60px;
 } 
 
 .footer{
-    width: 800px;    
+    width: 800px;
 }
 
 .footer-box {
@@ -97,4 +107,19 @@ body {
 
 .footer-connect a {
     padding: 5px 0px;
+}
+
+.year,
+.members-list {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.member {
+    margin: 20px;
+}
+
+.profile-pic {
+    width: 200px;
+    height: auto;
 }

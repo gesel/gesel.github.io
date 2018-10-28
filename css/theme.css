@@ -37,7 +37,7 @@ h1 {
     color: #51AEB3;
 }
 
-p {
+.lit > p {
       font-family: 'Slabo 27px', serif;
       font-size: 18px;
       line-height: 150%
