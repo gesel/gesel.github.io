@@ -45,7 +45,8 @@ h2 {
 .lit > p {
       font-family: 'Slabo 27px', serif;
       font-size: 18px;
-      line-height: 150%
+      line-height: 150%;
+      text-align: justify;
 }
 
 .footer-background {
