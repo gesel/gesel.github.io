@@ -16,9 +16,49 @@
     }
 }
 
+@media screen and (max-width: 715px) {
+    .footer-background {
+        height: 80px;
+    }
+    
+    .main {
+        padding-bottom: 100px;
+    }
+}
+
 @media screen and (max-width: 670px) {
     .links, .navbar-background, .navbar {   
         flex-direction: column;
         position: static;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .footer-background {
+        height: 100px;
+    }
+    
+    .main {
+        padding-bottom: 120px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .footer-background {
+        height: 120px;
+    }
+    
+    .main {
+        padding-bottom: 140px;
+    }
+}
+
+@media screen and (max-width: 310px) {
+    .footer-background {
+        height: 140px;
+    }
+    
+    .main {
+        padding-bottom: 120px;
     }
 }

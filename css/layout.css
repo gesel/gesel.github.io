@@ -89,6 +89,7 @@ body {
     bottom: 0;
     flex-direction: column;
     align-items: center;
+     justify-content: center;
     width: 100%;
     padding: 10px;
     height: 60px;
@@ -96,17 +97,6 @@ body {
 
 .footer{
     width: 800px;
-}
-
-.footer-box {
-    align-items: flex-start;
-    text-align: left;
-    display: flex;
-    flex-direction: column;
-}
-
-.footer-connect a {
-    padding: 5px 0px;
 }
 
 .year,
