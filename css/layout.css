@@ -103,9 +103,9 @@ body {
 .members-list {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-between;
 }
 
-.cron-month,
 .member {
     margin: 20px;
 }
