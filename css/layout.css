@@ -105,6 +105,7 @@ body {
     flex-flow: row wrap;
 }
 
+.cron-month,
 .member {
     margin: 20px;
 }
