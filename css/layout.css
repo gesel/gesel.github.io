@@ -83,6 +83,10 @@ body {
     padding-bottom: 80px;
 }
 
+.cron-month {
+    flex-basis: 207px;
+}
+
 .footer-background {
     display: flex;
     position: absolute;
@@ -103,7 +107,7 @@ body {
 .members-list {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 .member {
