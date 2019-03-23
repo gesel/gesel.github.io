@@ -4,7 +4,7 @@
     }
 }
 
-@media screen and (max-width: 1170px) {
+@media screen and (max-width: 1000px) {
     .navbar {
         flex-direction: column;
     }
