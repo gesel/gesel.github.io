@@ -44,37 +44,36 @@
             <div class="main">
                 <h1>Actividades</h1>
                 <div class="cron">
-                    <span>Las actividades marcadas con * contienen información estimativa o insuficiente y puede variar.</span>
                     <h2>2019</h2>
                     <div class="year">
                         <div class="cron-month">
                         <h3>Julio</h3>
                             <ul>
-                                <li><a href="https://gesel.github.io/cron/20190710.html">miércoles 10 de julio*</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190710.html">miércoles 10 de julio</a></li>
                             </ul>
                         </div>
                         <div class="cron-month">
                         <h3>Junio</h3>
                             <ul>
-                                <li><a href="https://gesel.github.io/cron/20190612.html">miércoles 12 de junio*</a></li>
-                                <li><a href="https://gesel.github.io/cron/20190626.html">miércoles 26 de junio*</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190612.html">miércoles 12 de junio</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190626.html">miércoles 26 de junio</a></li>
                             </ul>
                         </div>
 
                         <div class="cron-month">
                             <h3>Mayo</h3>
                             <ul>
-                                <li><a href="https://gesel.github.io/cron/20190508.html">miércoles 8 de mayo*</a></li>
-                                <li><a href="https://gesel.github.io/cron/20190515.html">miércoles 15 de mayo*</a></li>
-                                <li><a href="https://gesel.github.io/cron/20190529.html">miércoles 29 de mayo*</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190508.html">miércoles 8 de mayo</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190515.html">miércoles 15 de mayo</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190529.html">miércoles 29 de mayo</a></li>
                             </ul>
                         </div>
 
                         <div class="cron-month">
                             <h3>Abril</h3>
                             <ul>
-                                <li><a href="https://gesel.github.io/cron/20190403.html">miércoles 3 de abril*</a></li>
-                                <li><a href="https://gesel.github.io/cron/20190417.html">miércoles 17 de abril*</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190403.html">miércoles 3 de abril</a></li>
+                                <li><a href="https://gesel.github.io/cron/20190417.html">miércoles 17 de abril</a></li>
                             </ul>
                         </div>
 
