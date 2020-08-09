@@ -38,6 +38,10 @@ body {
     text-overflow: ellipsis; 
 }
 
+.name::after {
+    content: "Grupo de Estadística para el Estudio del Lenguaje";
+}
+
 .links {
     display: flex;
 }

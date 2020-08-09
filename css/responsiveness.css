@@ -31,6 +31,14 @@
         flex-direction: column;
         position: static;
     }
+
+    .name {
+        text-align: center;
+    }
+
+    .name::after {
+        content: "GESEL"; 
+    }
 }
 
 @media screen and (max-width: 500px) {
