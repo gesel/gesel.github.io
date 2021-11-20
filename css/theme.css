@@ -41,6 +41,13 @@ h2 {
     font-size: 22px;
 }
 
+.banner {
+    width: 100%;
+    text-align: center;
+    background-color: #f4f2f2;
+    padding: 1em;
+}
+
 .lit > p {
       font-family: 'Slabo 27px', serif;
       font-size: 18px;
